@@ -1,0 +1,11 @@
+
+body{
+    background-image: url(../assets/images/bg-admin.avif);
+
+}
+
+.adminTitle{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 1rem;
+}
